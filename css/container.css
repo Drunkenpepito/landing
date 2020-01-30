@@ -3,8 +3,9 @@
     font-size: 1.5em;
     margin-block-start: 0.83em;
     margin-block-end: 0.83em;
-    margin-inline-start: 17em;
+ /*   margin-inline-start: 17em;*/
   /*  margin-inline-end: 0px;*/
+  text-align: center;
     font-weight: bold;
     color: #5789A2;
 }
