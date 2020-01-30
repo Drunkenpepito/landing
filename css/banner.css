@@ -1,0 +1,40 @@
+.banner {
+    background-image: url("../images/banner-img.jpeg");
+    background-size: cover;
+    background-position: center;
+    padding: 50px 0 250px 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+.btn-primary {
+    display: inline-block;
+    background-color: #1EDD88;
+    padding: 16px 36px;
+    border-radius: 50px;
+    color: white;
+    font-size: 16px;
+    font-family: Open Sans;
+    border: 2px solid white;
+}
+
+body {
+    font-family: Open Sans;
+    color: white;
+}
+
+.banner p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-size: 20px;
+    text-shadow: 10px 10px 30px black;
+  }
+
+.banner div {
+  display: block;
+}
